@@ -1,0 +1,27 @@
+{
+  "name": "fullstack-backend-zero",
+  "version": "1.0.0",
+  "description": "Tran Huu Hau fullstack backend ero",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trnhau1710/Nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "hau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trnhau1710/Nodejs/issues"
+  },
+  "homepage": "https://github.com/trnhau1710/Nodejs#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
